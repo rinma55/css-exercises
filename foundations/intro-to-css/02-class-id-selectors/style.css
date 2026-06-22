@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.nepar{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#prvi{
+    color: lightblue;
+    font-size: 36px;
+}
+
+#kul_nepar{
+    font-size: 24px;
+}
+
+#drugi{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+    
+}
