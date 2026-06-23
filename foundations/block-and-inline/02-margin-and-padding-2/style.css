@@ -1,6 +1,7 @@
 *{
   box-sizing: border-box;
 }
+
 body {
   background: #eee;
   font-family: sans-serif;
@@ -35,10 +36,12 @@ body {
   width: 350px;
   margin: 10px auto;
   padding: 5px;
+  text-align: center;
 }
 
 button {
+  display: block;
   background: white;
   border: 1px solid #eee;
-  margin: 5px;
+  margin: 0 auto;
 }
